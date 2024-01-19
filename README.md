@@ -20,6 +20,8 @@ Welcome to the Node.js branch of our MERN Learning Repository! This section is d
 
 For deeper learning, refer to the official Node.js documentation and enhance your skills with a comprehensive Node.js crash course available on YouTube. Feel free to navigate through the content at your own pace. Happy coding!
 
+1. Mail Handling
+
 ## Contribution Guidelines
 
 If you'd like to contribute to this repository, feel free to fork the project, create a new branch, make your changes, and submit a pull request. We welcome contributions to improve the learning experience for others.
