@@ -7,12 +7,17 @@ Welcome to the MERN Learning Repository! This repository is designed for learnin
 - **[master](https://github.com/ThanuMahee12/BasicWeb/tree/main)**: Main branch with the overall project structure and information about the MERN stack.
 <!-- - **[mongodb](link-to-mongodb-branch)**: MongoDB branch for learning MongoDB database.
 - **[express](link-to-express-branch)**: Express.js branch for learning the Express.js framework.
-- **[react](link-to-react-branch)**: React branch for learning the React library.
-- **[node](link-to-node-branch)**: Node.js branch for learning the Node.js runtime. -->
+- **[react](link-to-react-branch)**: React branch for learning the React library.-->
+- **[node](link-to-node-branch)**: Node.js branch for learning the Node.js runtime.
 
 ## Getting Started
 
 Follow the links to the specific branches to access learning materials, code examples, and tutorials for each technology. Make sure to go through them in the specified order for a structured learning experience.
+
+### NodeJS
+Welcome to the Node.js branch of our MERN Learning Repository! This section is dedicated to mastering Node.js, a powerful runtime for executing JavaScript on the server side. Begin with an introductory tutorial covering Node.js basics, its architecture, and its significance in web development. Next, follow a step-by-step setup tutorial to install Node.js and configure your development environment. Delve into core concepts like event-driven architecture, modules, and npm in our core concepts tutorial. To apply your knowledge, explore a practical example by building a simple Node.js application with insights into routes, middleware, and more here.
+
+For deeper learning, refer to the official Node.js documentation and enhance your skills with a comprehensive Node.js crash course available on YouTube. Feel free to navigate through the content at your own pace. Happy coding!
 
 ## Contribution Guidelines
 
@@ -24,8 +29,9 @@ Here are some additional resources to enhance your understanding of the MERN sta
 
 <!-- - MongoDB Official Documentation: [Link](mongodb-docs-link)
 - Express.js Official Documentation: [Link](express-docs-link)
-- React Official Documentation: [Link](react-docs-link)
-- Node.js Official Documentation: [Link](node-docs-link) -->
+- React Official Documentation: [Link](react-docs-link)-->
+
+- Node.js Official Documentation: [Link](https://nodejs.org/docs/latest/api/)
 
 ## License
 
