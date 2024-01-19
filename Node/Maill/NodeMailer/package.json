@@ -4,8 +4,13 @@
   "description": "First implement for Simple Mail sent using NodeMailer",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "author": "ThanuMahee",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.8",
+    "nodemon": "^3.0.3"
+  }
 }
