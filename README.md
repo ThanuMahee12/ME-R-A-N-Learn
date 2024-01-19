@@ -15,7 +15,7 @@ Welcome to the MERN Learning Repository! This repository is designed for learnin
 Follow the links to the specific branches to access learning materials, code examples, and tutorials for each technology. Make sure to go through them in the specified order for a structured learning experience.
 
 ### NodeJS
-(https://logowik.com/content/uploads/images/nodejs.jpg)
+![icon](https://logowik.com/content/uploads/images/nodejs.jpg)
 Welcome to the Node.js branch of our MERN Learning Repository! This section is dedicated to mastering Node.js, a powerful runtime for executing JavaScript on the server side. Begin with an introductory tutorial covering Node.js basics, its architecture, and its significance in web development. Next, follow a step-by-step setup tutorial to install Node.js and configure your development environment. Delve into core concepts like event-driven architecture, modules, and npm in our core concepts tutorial. To apply your knowledge, explore a practical example by building a simple Node.js application with insights into routes, middleware, and more here.
 
 For deeper learning, refer to the official Node.js documentation and enhance your skills with a comprehensive Node.js crash course available on YouTube. Feel free to navigate through the content at your own pace. Happy coding!
