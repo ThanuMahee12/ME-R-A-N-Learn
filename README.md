@@ -8,7 +8,7 @@ Welcome to the MERN Learning Repository! This repository is designed for learnin
 <!-- - **[mongodb](link-to-mongodb-branch)**: MongoDB branch for learning MongoDB database.
 - **[express](link-to-express-branch)**: Express.js branch for learning the Express.js framework.
 - **[react](link-to-react-branch)**: React branch for learning the React library.-->
-- **[node]([link-to-node-branch](https://github.com/ThanuMahee12/ME-R-A-N-Learn/tree/nodejs)**: Node.js branch for learning the Node.js runtime.
+- **[node](https://github.com/ThanuMahee12/ME-R-A-N-Learn/tree/nodejs)**: Node.js branch for learning the Node.js runtime.
 
 ## Getting Started
 
