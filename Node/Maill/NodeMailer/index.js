@@ -1,11 +1,9 @@
-// app.js
+// server.js
 const http = require('http');
+const routing = require('./Routing.js');
 
 const server = http.createServer((req, res) => {
-    res.writeHead(200, {
-        'Content-Type': 'text/plain'
-    });
-    res.end('Hello, Node.js!');
+    routing(req, res)
 });
 
 const PORT = process.env.PORT || 3000;
