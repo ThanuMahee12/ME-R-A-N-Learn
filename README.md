@@ -19,10 +19,11 @@ Follow the links to the specific branches to access learning materials, code exa
 Welcome to the Node.js branch of our MERN Learning Repository! This section is dedicated to mastering Node.js, a powerful runtime for executing JavaScript on the server side. Begin with an introductory tutorial covering Node.js basics, its architecture, and its significance in web development. Next, follow a step-by-step setup tutorial to install Node.js and configure your development environment. Delve into core concepts like event-driven architecture, modules, and npm in our core concepts tutorial. To apply your knowledge, explore a practical example by building a simple Node.js application with insights into routes, middleware, and more here.
 
 For deeper learning, refer to the official Node.js documentation and enhance your skills with a comprehensive Node.js crash course available on YouTube. Feel free to navigate through the content at your own pace. Happy coding!
-       1. Mail Handling
-       2.File Handling
+<ol>
+       <li> Mail Handling</li>
+       <li>File Handling</li>
           In Node.js, file handling involves managing files within a server. The "path" module helps manipulate file paths, "fs" module allows file system operations like reading and writing, and "multer" facilitates file uploads. Learn more about [path](https://nodejs.org/api/path.html), [fs](https://nodejs.org/api/fs.html), and [multer](https://www.npmjs.com/package/multer) with these reference links.
-
+</ol>
 ## Contribution Guidelines
 
 If you'd like to contribute to this repository, feel free to fork the project, create a new branch, make your changes, and submit a pull request. We welcome contributions to improve the learning experience for others.
