@@ -47,7 +47,26 @@ const routing = (
             });
             res.end(data);
         });
-    } else if (method === 'POST' && url === "/") {
+    } else if (method === 'GET' && url === '/stylehtml') {
+        const htmlPath = path.join(__dirname, 'stylemail.html');
+
+        fs.readFile(htmlPath, 'utf8', (err, data) => {
+            if (err) {
+                res.writeHead(500, {
+                    'Content-Type': 'text/plain'
+                });
+                res.end('Internal Server Error');
+                return;
+            }
+
+            res.writeHead(200, {
+                'Content-Type': 'text/html'
+            });
+            res.end(data);
+        });
+    }
+    else if (method === 'POST' && url === "/")
+    {
 
         Mail(req, res);
     } else if (method === 'POST' && url === "/htmlsubmit") {
