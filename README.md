@@ -20,7 +20,9 @@ Welcome to the Node.js branch of our MERN Learning Repository! This section is d
 
 For deeper learning, refer to the official Node.js documentation and enhance your skills with a comprehensive Node.js crash course available on YouTube. Feel free to navigate through the content at your own pace. Happy coding!
 
-1. Mail Handling
+       1. Mail Handling
+       2.File Handling
+          In Node.js, file handling involves managing files within a server. The "path" module helps manipulate file paths, "fs" module allows file system operations like reading and writing, and "multer" facilitates file uploads. Learn more about [path](https://nodejs.org/api/path.html), [fs](https://nodejs.org/api/fs.html), and [multer](https://www.npmjs.com/package/multer) with these reference links.
 
 ## Contribution Guidelines
 
